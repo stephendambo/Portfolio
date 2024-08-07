@@ -15,8 +15,8 @@ const About = () => {
       <div className='flex items-center justify-between'>
        <img src={img1} className='w-1/2 rounded-2xl' alt="" />
       </div>
+      </motion.div>
       
-</motion.div>
        <motion.div 
        whileInView={{opacity: 1, x: 0}}
        initial={{opacity: 0, x: 100}}
