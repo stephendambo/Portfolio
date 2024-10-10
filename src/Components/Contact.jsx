@@ -24,7 +24,7 @@ const Contact = () => {
               to get in touch.
             </motion.p>
             <br />
-            <a href="https://drive.google.com/file/d/1lszI7jizNibvgjfHOUqXtn-NSe-bTFM2/view?usp=drive_link" target="-blank">
+            <a href="https://drive.google.com/file/d/1uk3N7unI7SxymEN0Oi2kVoUXDaS9pbNe/view?usp=sharing" target="-blank">
               <motion.button 
               whileInView={{opacity: 1, x: 0}}
               initial={{opacity: 0, x:  100}}

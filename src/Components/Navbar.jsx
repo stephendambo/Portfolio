@@ -12,7 +12,7 @@ const Navbar = () => {
      </div>
      <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
         
-        <a href="http://www.linkedin.com/in/stephen-c-dambo-a93091226" target="-blank">
+        <a href="https://www.linkedin.com/in/stephendambo" target="-blank">
               <FaLinkedin className="cursor-pointer" size={25} />
             </a>
         <a href="https://github.com/stephendambo" target="-blank">

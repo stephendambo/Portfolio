@@ -26,7 +26,7 @@ const Projects = () => {
           transition={{duration: 1}}
           className='w-full max-w-xl lg:w-3/4'>
             <h6 className='mb-2 font-semibold'>MicDAM</h6>
-            <p className='mb-4 text-neutral-400'>MicDAM is a food app with different african dishes and is still under development <p className='mr-2 rounded  px-2 py-1 text-sm font-medium text-purple-900'>HTML CSS JavaScript</p></p>
+            <p className='mb-4 text-neutral-400'>MicDAM is a food app featuring a variety of African dishes and is currently under development.<p className='mr-2 rounded  px-2 py-1 text-sm font-medium text-purple-900'>HTML CSS JavaScript</p></p>
           </motion.div>
 
         </div>
@@ -45,7 +45,7 @@ const Projects = () => {
             initial={{opacity: 0, x:  100}}
             transition={{duration: 1}}
             className='mb-2 font-semibold'>Gogo</motion.h6>
-            <p className='mb-4 text-neutral-400'>Gogo is an airport ride share whereby you can share your ride with another person and as well splitting the cost of the ride. Gogo is still under development. <p className='mr-2 rounded  px-2 py-1 text-sm font-medium text-purple-900'>HTML CSS React</p></p>
+            <p className='mb-4 text-neutral-400'>Gogo is an airport ride-sharing service that allows you to share your ride with another person and split the cost. Gogo is currently under development. <p className='mr-2 rounded  px-2 py-1 text-sm font-medium text-purple-900'>HTML CSS React</p></p>
           </div>
 
         </motion.div>

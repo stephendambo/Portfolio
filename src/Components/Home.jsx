@@ -30,7 +30,7 @@ const Home = () => {
               variants={container(1)}
               initial="hidden"
               animate="visible"
-              className='my-2 max-w-xl py-6 font-light tracking-tighter'>I am a proficient software developer with extensive experience in both front-end and back-end technologies, I am adept at designing and implementing end-to-end web applications. My expertise includes working with front-end frameworks such as React.js and Angular, which enables me to create dynamic and responsive user interfaces. On the back-end, I am skilled in using Node.js, Express and I am experienced with MySQL (MongoDB) databases, allowing me to choose the best-fit solution for various project requirements. I have a keen eye for detail and a deep understanding of software architecture principles, which helps me to build maintainable and efficient codebase.</motion.p>
+              className='my-2 max-w-xl py-6 font-light tracking-tighter'>I am a skilled front-end developer with expertise in React.js and Angular, creating dynamic and responsive user interfaces. As a certified data scientist, I specialize in extracting insights from data using Python, R, and SQL. Additionally, I excel as a virtual assistant, handling administrative tasks with precision, and ensuring efficiency and productivity. With a keen eye for detail, I deliver high-quality results across all roles.</motion.p>
             </div>
             </div>
             <div className='w-full lg:w-1/2 lg:p-8'>
